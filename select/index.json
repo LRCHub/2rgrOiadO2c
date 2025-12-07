@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Oblivion",
+  "base_artist": "TheFatRat",
+  "createdAt": "2025-12-07T08:49:25.677476Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hope In Suffering (Escaping Oblivion & Overcoming Powerlessness)",
+      "artist": "Yves Tumor feat. Oxhy & Puce Mary",
+      "has_synced": true,
+      "path": "select/01_Hope_In_Suffering_(Escaping_Oblivion_&_Overcoming_Powerlessness)_Yves_Tumor_feat._Oxhy_&_Puce_Mary.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hope in Suffering (Escaping Oblivion & Overcoming Powerlessness) (feat. Oxhy & Puce Mary)",
+      "artist": "Yves Tumor",
+      "has_synced": true,
+      "path": "select/02_Hope_in_Suffering_(Escaping_Oblivion_&_Overcoming_Powerlessness)_(feat._Oxhy_&_P_Yves_Tumor.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Oblivion",
+      "artist": "Mastodon",
+      "has_synced": true,
+      "path": "select/03_Oblivion_Mastodon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Oblivion",
+      "artist": "M83 feat. Susanne Sundfør",
+      "has_synced": true,
+      "path": "select/04_Oblivion_M83_feat._Susanne_Sundfør.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Oblivion (feat. Susanne Sundfør)",
+      "artist": "M83",
+      "has_synced": true,
+      "path": "select/05_Oblivion_(feat._Susanne_Sundfør)_M83.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Oblivion",
+      "artist": "Grimes",
+      "has_synced": true,
+      "path": "select/06_Oblivion_Grimes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Obadiah in Oblivion",
+      "artist": "Death Vessel",
+      "has_synced": false,
+      "path": "select/07_Obadiah_in_Oblivion_Death_Vessel.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kings of Oblivion",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/08_Kings_of_Oblivion_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Oblivion",
+      "artist": "Real Life",
+      "has_synced": true,
+      "path": "select/09_Oblivion_Real_Life.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Oblivion (Daybehavior Mix)",
+      "artist": "Real Life",
+      "has_synced": false,
+      "path": "select/10_Oblivion_(Daybehavior_Mix)_Real_Life.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Oblivion (Real Life Lexicon Mix)",
+      "artist": "Real Life",
+      "has_synced": false,
+      "path": "select/11_Oblivion_(Real_Life_Lexicon_Mix)_Real_Life.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Magnificent Oblivion",
+      "artist": "Fleeting Joys",
+      "has_synced": false,
+      "path": "select/12_Magnificent_Oblivion_Fleeting_Joys.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Popstar researching oblivion",
+      "artist": "Flotation Toy Warning",
+      "has_synced": false,
+      "path": "select/13_Popstar_researching_oblivion_Flotation_Toy_Warning.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dream Oblivion",
+      "artist": "Dark Tranquillity",
+      "has_synced": true,
+      "path": "select/14_Dream_Oblivion_Dark_Tranquillity.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Black Star Oblivion",
+      "artist": "Loudness",
+      "has_synced": true,
+      "path": "select/15_Black_Star_Oblivion_Loudness.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Welcome oblivion",
+      "artist": "How to Destroy Angels",
+      "has_synced": true,
+      "path": "select/16_Welcome_oblivion_How_to_Destroy_Angels.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Oblivion",
+      "artist": "TheFatRat, Lola Blanc",
+      "has_synced": false,
+      "path": "select/pl_01_Oblivion_TheFatRat,_Lola_Blanc.txt"
+    }
+  ]
+}
